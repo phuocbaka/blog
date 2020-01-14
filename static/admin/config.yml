@@ -1,7 +1,6 @@
 backend:
-  name: test-repo
   name: github
-  repo: phuoc-blog/blog
+  repo: phuocbaka/blog
 
 
 media_folder: static/assets
